@@ -34,15 +34,13 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankabundela03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankabundela03&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabundela03&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x22247734&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x22247734&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x22247734&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ---
 
-
 ### 📈 Contribution Graph:
 
-[![Priyanka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=priyankabundela03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Priyanka's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=x22247734&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
