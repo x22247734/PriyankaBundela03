@@ -34,10 +34,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankabundela03&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankabundela03&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabundela03&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankabundela03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankabundela03&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabundela03&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
