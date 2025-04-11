@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanka Bundela</h1>
+<h1 align="center">Hi 👋, I'm Priyanka </h1>
 <h3 align="center">A passionate Data Engineer with experience in Banking, Trading & Automation</h3>
 
 <p align="center">
